@@ -73,5 +73,3 @@
   </ItemGroup>
   <Import Project="../netfx.props" />
 </Project>
-  <Import Project="../netfx.props"/>
-</Project>
